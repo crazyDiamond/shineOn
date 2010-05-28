@@ -1,0 +1,24 @@
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-05-27 22:36:55) [GET]
+
+ActionController::RoutingError (No route matches "/shineOn" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-05-27 22:37:35) [GET]
+
+ActionController::RoutingError (No route matches "/qbs" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-05-27 22:37:43) [GET]
+
+ActionController::RoutingError (No route matches "/shineOn" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
