@@ -1,0 +1,63 @@
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-05-28 11:00:08) [GET]
+
+ActionController::RoutingError (No route matches "/pledge" with {:method=>:get}):
+  -e:1:in `load'
+  -e:1
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-05-28 11:00:21) [GET]
+
+ActionController::RoutingError (No route matches "/shineOn" with {:method=>:get}):
+  -e:1:in `load'
+  -e:1
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-05-28 11:00:37) [GET]
+
+ActionController::UnknownAction (No action responded to index. Actions: ):
+  -e:1:in `load'
+  -e:1
+
+Rendering rescues/layout (not_found)
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-05-28 11:07:05) [GET]
+
+ActionView::MissingTemplate (Missing template hello/index.erb in view path app/views):
+  -e:1:in `load'
+  -e:1
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-05-28 11:07:17) [GET]
+
+ActionView::MissingTemplate (Missing template hello/index.erb in view path app/views):
+  -e:1:in `load'
+  -e:1
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-05-28 11:07:46) [GET]
+
+ActionView::MissingTemplate (Missing template hello/index.erb in view path app/views):
+  -e:1:in `load'
+  -e:1
+
+Rendering rescues/layout (internal_server_error)
+
+
+Processing HelloController#index (for 127.0.0.1 at 2010-05-28 11:07:52) [GET]
+
+ActionView::MissingTemplate (Missing template hello/index.erb in view path app/views):
+  -e:1:in `load'
+  -e:1
+
+Rendering rescues/layout (internal_server_error)
